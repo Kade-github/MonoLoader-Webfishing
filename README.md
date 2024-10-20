@@ -1,6 +1,7 @@
 # MonoLoader-Webfishing
 A C# Mono DLL Loader for Webfishing
 
+**This; itself, is not a mod that does anything. It only loads other mods that COULD do something**
 
 ## instructions to install
 
