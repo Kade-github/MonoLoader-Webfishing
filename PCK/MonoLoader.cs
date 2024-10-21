@@ -16,7 +16,7 @@ public class MonoLoader : Node
     
     public override void _Ready()
     {
-	if (!ModManager.Instance.Initialized)
+		if (!ModManager.Instance.Initialized)
             ModManager.Instance.Initialize();
         
         // add all of our mods
